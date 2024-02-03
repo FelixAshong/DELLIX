@@ -10,7 +10,7 @@ const global = {
   api: {
     // Register your key at https://www.themoviedb.org/settings/api and enter here
     // Only use this for development or very small projects. You should store your key and make requests from a server
-    apiKey: '1489eb23099332c65cb908f9b74a7b37',
+    apiKey: '',
     apiUrl: 'https://api.themoviedb.org/3/',
   },
 };
